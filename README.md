@@ -1,4 +1,11 @@
-# React + Vite
+# QR code component UI Challenge | Frontend Mentor
+A perfect first challenge if you're new to HTML and CSS. The card layout doesn't shift, so it's ideal if you haven't learned about building responsive layouts yet.
+
+## Desktop UI:
+![image](https://github.com/shtanriverdi/QR-code-component/assets/36234545/0c70aa16-8b50-4efe-8bc2-2e214d26c0fd)
+
+## Mobile UI:
+*TBA
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
