@@ -5,7 +5,7 @@ A perfect first challenge if you're new to HTML and CSS. The card layout doesn't
 ![image](https://github.com/shtanriverdi/QR-code-component/assets/36234545/0c70aa16-8b50-4efe-8bc2-2e214d26c0fd)
 
 ## Mobile UI:
-*TBA
+![image](https://github.com/shtanriverdi/QR-code-component/assets/36234545/05e2eea7-80cc-44b7-b3a1-5c2ee693e235)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
